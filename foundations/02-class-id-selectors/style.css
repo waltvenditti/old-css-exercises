@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f1aba4;
+    font-family: Verdana, sans-serif;
+}
+
+/*tff=twenty four font*/
+.tff {
+    font-size: 24px; 
+}
+
+#four {
+    font-weight: bold; 
+    background-color: #5fec80;
+}
+
+#two {
+    font-size: 36px;
+    color: #1f39ff;
+}
